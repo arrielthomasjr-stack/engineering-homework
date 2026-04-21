@@ -1,4 +1,3 @@
-import string
 
 # Get user-specified file
 filename = input("Enter the filename to analyze: ")
@@ -26,7 +25,7 @@ try:
             total_words += len(words)
             for word in words:
                 # Normalize: lowercase and strip punctuation
-                clean_word = word.strip(string.punctuation).lower()
+                clean_word = word.strip((".,!?;:")).lower()
                 if not clean_word:
                     continue
 
