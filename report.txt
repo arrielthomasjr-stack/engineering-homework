@@ -1,0 +1,15 @@
+===== TEXT ANALYSIS REPORT =====
+
+Total Characters : 1475
+Total Words      : 278
+Total Lines      : 22
+
+Most Common Word : 'that' (13 times)
+
+Total Vowels     : 449
+Total Consonants : 700
+
+Longest Word     : 'battle-field' (12 chars)
+Shortest Word    : 'a' (1 chars)
+Avg Word Length  : 4.14
+
